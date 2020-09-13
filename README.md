@@ -7,7 +7,7 @@ Lista de filmes desenvolvida em ReactJS usando API The Movie Database API
 Link do projeto: 
 
 <p align="center">
-  <img alt="Logo do projeto" src="./docs/logo.png" />
+  <img alt="Logo do projeto" width="350" src="./docs/logo.png" />
 </p>
 
 ## Para começar :arrow_forward:
