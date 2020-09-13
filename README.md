@@ -4,7 +4,7 @@
 
 Lista de filmes desenvolvida em ReactJS usando API The Movie Database API
 
-Link do projeto: 
+Link do projeto: https://react-moviedb.vercel.app/
 
 <p align="center">
   <img alt="Logo do projeto" width="350" src="./docs/logo.png" />
