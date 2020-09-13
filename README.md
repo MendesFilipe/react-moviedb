@@ -1,8 +1,8 @@
 # The Movie Database
 
-### Projeto desenvolvido em ReactJS usando API The Movie Database API :movie_camera:
+### Projeto desenvolvido em ReactJS usando API The Movie Database :movie_camera:
 
-Lista de filmes desenvolvida em ReactJS usando API The Movie Database API
+Lista de filmes desenvolvida em ReactJS usando API The Movie Database
 
 Link do projeto: https://react-moviedb.vercel.app/
 
