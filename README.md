@@ -52,7 +52,7 @@ Para compilar a aplicação basta seguir os dois passos abaixo:
 - [Axios](https://www.npmjs.com/package/axios)
 - [Jest](https://jestjs.io/) 
 
-## Licença :page_with_curl:
+## Licença ⚖
 
 Esse projeto possui a licença **MIT**.
 
